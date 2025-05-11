@@ -1,7 +1,5 @@
 # Tech Support Ticket Simulator  
 
-![Demo GIF](screenshots/demo.gif) *← (Record screen with [ScreenToGif](https://www.screentogif.com/))*
-
 A humorous tech support system simulating absurd IT solutions.  
 
 ## Features  
